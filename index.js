@@ -17,7 +17,7 @@ const client = new OAuth2Client(process.env.GOOGLE_CLIENT)
 
 
 const corsOptions = {
-    origin: process.env.CORS_ORIGIN,
+    origin: 'opentuf-jwt-node.vercel.app',
     credentials: true
 }
 
