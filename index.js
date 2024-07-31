@@ -23,7 +23,7 @@ const corsOptions = {
 
 app.use(cors(corsOptions));
 app.use(bodyParser.json());
-// app.use(cookieParser());
+
 
 const PORT = 5000;
 const ACCESS_SECRET_KEY = process.env.ACCESS_SECRET_KEY
