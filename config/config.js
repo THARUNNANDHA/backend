@@ -1,11 +1,32 @@
 const { Sequelize } = require('sequelize');
 var nodemailer = require('nodemailer');
 
-const sequelize = new Sequelize('practice_db', 'postgres', 'Ntharun123', {
-    host: 'localhost',
+// const sequelize = new Sequelize('practice_db', 'postgres', 'Ntharun123', {
+//     host: 'localhost',
+//     dialect: 'postgres',
+//     logging: false
+// });
+
+const sequelize = new Sequelize("postgres://default:d5IcjRg9lMDY@ep-flat-river-a4udalva.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require", {
     dialect: 'postgres',
-    logging: false
+    protocol: 'postgres',
+    logging: false,
+    dialectOptions: {
+        ssl: {
+            require: true,
+            rejectUnauthorized: false
+        }
+    }
 });
+
+sequelize.authenticate()
+    .then(() => {
+        console.log('Connection has been established successfully.');
+    })
+    .catch(err => {
+        console.error('Unable to connect to the database:', err);
+    });
+
 
 var transporter = nodemailer.createTransport({
     service: 'gmail',

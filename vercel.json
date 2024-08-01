@@ -18,6 +18,8 @@
                 "PATCH",
                 "OPTIONS"
             ],
+            "main": "index.js",
+            "scripts": "node index.js",
             "headers": {
                 "Access-Control-Allow-Origin": "https://opentuf-jwt-node.vercel.app"
             }
