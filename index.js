@@ -24,6 +24,7 @@ const corsOptions = {
 
 app.use(cors(corsOptions));
 app.use(bodyParser.json());
+app.options('*', cors(corsOptions));
 // app.use(cookieParser());
 
 const PORT = 5000;
