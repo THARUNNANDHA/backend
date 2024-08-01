@@ -5,22 +5,5 @@
             "source": "/(.*)",
             "destination": "/index.js"
         }
-    ],
-    "routes": [
-        {
-            "src": "/(.*)",
-            "dest": "/index.js",
-            "methods": [
-                "GET",
-                "POST",
-                "PUT",
-                "DELETE",
-                "PATCH",
-                "OPTIONS"
-            ],
-            "headers": {
-                "Access-Control-Allow-Origin": "https://opentuf-jwt-node.vercel.app"
-            }
-        }
     ]
 }
