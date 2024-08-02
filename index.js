@@ -17,8 +17,8 @@ const client = new OAuth2Client(process.env.GOOGLE_CLIENT)
 
 
 const corsOptions = {
-    // origin: process.env.CORS_ORIGIN,
-    origin: "https://opentuf-jwt-node.vercel.app",
+    origin: "http://localhost:3000",
+    // origin: "https://opentuf-jwt-node.vercel.app",
     credentials: true
 }
 
@@ -26,6 +26,13 @@ app.use(cors(corsOptions));
 app.use(bodyParser.json());
 app.options('*', cors(corsOptions));
 // app.use(cookieParser());
+
+app.all('*', function (req, res, next) {
+    res.header("Access-Control-Allow-Origin", corsOptions.origin);
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    res.header("Access-Control-Allow-Credentials", "true");
+    next();
+});
 
 const PORT = 5000;
 const ACCESS_SECRET_KEY = process.env.ACCESS_SECRET_KEY
