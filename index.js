@@ -34,6 +34,9 @@ app.all('*', function (req, res, next) {
     next();
 });
 
+app.get('/', (req, res) => {
+    res.send('hosted success')
+})
 const PORT = 5000;
 const ACCESS_SECRET_KEY = process.env.ACCESS_SECRET_KEY
 const REFRESH_SECRET_KEY = process.env.REFRESH_SECRET_KEY
