@@ -23,8 +23,8 @@ const corsOptions = {
 }
 
 app.use(cors(corsOptions));
-app.use(bodyParser.json());
 app.options('*', cors(corsOptions));
+app.use(bodyParser.json());
 // app.use(cookieParser());
 
 app.all('*', function (req, res, next) {
