@@ -31,8 +31,10 @@ sequelize.authenticate()
 var transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: process.env.MAIL_USER,
-        pass: process.env.APP_PASS
+        // user: process.env.MAIL_USER,
+        // pass: process.env.APP_PASS
+        user: "ntharun832jacky@gmail.com",
+        pass: "dogo ruiu ogty lrtp"
     }
 });
 

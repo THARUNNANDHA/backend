@@ -13,7 +13,8 @@ const { where, STRING } = require('sequelize');
 const { OAuth2Client } = require('google-auth-library');
 const sendmail = require('./mail')
 const app = express();
-const client = new OAuth2Client(process.env.GOOGLE_CLIENT)
+const client = new OAuth2Client("31706794484-59jdeslin0devcrcrvgjv88p1sb1uhjm.apps.googleusercontent.com")
+// const client = new OAuth2Client(process.env.GOOGLE_CLIENT)
 
 
 const corsOptions = {
@@ -38,8 +39,10 @@ app.get('/', (req, res) => {
     res.send('hosted success .....')
 })
 const PORT = 5000;
-const ACCESS_SECRET_KEY = process.env.ACCESS_SECRET_KEY
-const REFRESH_SECRET_KEY = process.env.REFRESH_SECRET_KEY
+const ACCESS_SECRET_KEY = "ACCESS_SECRET_KEY"
+// const ACCESS_SECRET_KEY = process.env.ACCESS_SECRET_KEY
+const REFRESH_SECRET_KEY = "REFRESH_SECRET_KEY"
+// const REFRESH_SECRET_KEY = process.env.REFRESH_SECRET_KEY
 
 sequelize.sync()
     .then(() => {
