@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "postinstall": "npm install pg",
+    "postbuild": "npm install pg",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
