@@ -25,7 +25,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cookieParser());
 
-const PORT = 5000;
+const PORT = process.env.PORT;
 const ACCESS_SECRET_KEY = process.env.ACCESS_SECRET_KEY;
 const REFRESH_SECRET_KEY = process.env.REFRESH_SECRET_KEY;
 
@@ -195,7 +195,7 @@ app.post("/update_product", async (req, res) => {
     try {
         const product = await Product.findOne({ where: { id: data.id } });
         if (product) {
-            await product.update(data);
+            await product.update({ description: data.description, price: data.price, title: data.title });
             return res.status(200).json({ "success": "Product updated successfully" });
         }
         return res.status(404).json({ "error": "Product not found" });

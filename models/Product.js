@@ -2,7 +2,7 @@ const { DataTypes } = require('sequelize');
 const { sequelize } = require('../config/config')
 
 
-const Product = sequelize.define('Product', {
+const Product = sequelize.define('product1', {
     image_src: {
         type: DataTypes.STRING
     },
