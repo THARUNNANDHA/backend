@@ -16,7 +16,7 @@ const app = express();
 const client = new OAuth2Client(process.env.GOOGLE_CLIENT);
 
 const corsOptions = {
-    origin: "http://localhost:3001",
+    origin: "https://opentuf-jwt-node.vercel.app",
     credentials: true
 };
 
