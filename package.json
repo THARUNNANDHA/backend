@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "npm install && npm run some-other-build-steps",
     "start": "node index.js",
-    "postinstall": "npm install pg",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
