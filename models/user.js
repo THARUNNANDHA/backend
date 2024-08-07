@@ -2,7 +2,7 @@ const { DataTypes } = require('sequelize');
 
 const { sequelize } = require('../config/config');
 
-const User123 = sequelize.define('User123', {
+const User123 = sequelize.define('user456', {
     username: {
         type: DataTypes.STRING,
         allowNull: false,
@@ -20,6 +20,10 @@ const User123 = sequelize.define('User123', {
     otp: {
         type: DataTypes.INTEGER,
         allowNull: true
+    },
+    role: {
+        type: DataTypes.STRING,
+        defaultValue: "user"
     }
 
 })

@@ -17,6 +17,7 @@ const client = new OAuth2Client(process.env.GOOGLE_CLIENT);
 
 const corsOptions = {
     origin: "https://opentuf-jwt-node.vercel.app",
+    // origin: "http://localhost:3001",
     credentials: true
 };
 
@@ -77,10 +78,10 @@ app.post('/login', async (req, res) => {
             const access_token = jwt.sign({ userid: user_exists_email.id }, ACCESS_SECRET_KEY, { expiresIn: "20s" });
             const refresh_token = jwt.sign({ userid: user_exists_email.id }, REFRESH_SECRET_KEY, { expiresIn: "30s" });
 
-            if (username === "admin@gmail.com") {
-                return res.status(201).json({ "accessToken": access_token, "refreshToken": refresh_token, "user": user_exists_email.username, 'admin': true });
-            }
-            res.status(201).json({ "accessToken": access_token, "refreshToken": refresh_token, "user": user_exists_email.username });
+            // if (username === "admin@gmail.com") {
+            //     return res.status(201).json({ "accessToken": access_token, "refreshToken": refresh_token, "user": user_exists_email.username, 'admin': true });
+            // }
+            res.status(201).json({ "accessToken": access_token, "refreshToken": refresh_token, "user": user_exists_email.username, "role": user_exists_email.role });
         } else {
             return res.status(400).json({ "fail": "user not found" });
         }
