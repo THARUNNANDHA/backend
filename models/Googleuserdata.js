@@ -1,7 +1,7 @@
 const { DataTypes } = require('sequelize');
 const { sequelize } = require('../config/config')
 
-const Googleuserdata = sequelize.define('Googleuser', {
+const Googleuserdata = sequelize.define('googleuser1', {
     picture: {
         type: DataTypes.STRING,
         allowNull: false
@@ -21,6 +21,10 @@ const Googleuserdata = sequelize.define('Googleuser', {
     otp: {
         type: DataTypes.INTEGER,
         allowNull: true
+    },
+    role: {
+        type: DataTypes.STRING,
+        defaultValue: "user"
     }
 })
 

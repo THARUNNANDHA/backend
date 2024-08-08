@@ -17,7 +17,7 @@ const client = new OAuth2Client(process.env.GOOGLE_CLIENT);
 
 const corsOptions = {
     origin: "https://opentuf-jwt-node.vercel.app",
-    // origin: "http://localhost:3001",
+    // origin: "http://localhost:3000",
     credentials: true
 };
 
@@ -128,15 +128,15 @@ app.post("/googlelogin", async (req, res) => {
         const data = ticket.getPayload();
         let user = await Googleuserdata.findOne({ where: { email: data.email } });
         if (user) {
-            const access_token = jwt.sign({ userid: user.id }, ACCESS_SECRET_KEY, { expiresIn: "10s" });
-            const refresh_token = jwt.sign({ userid: user.id }, REFRESH_SECRET_KEY, { expiresIn: "20s" });
-            return res.status(200).json({ "picture": data.picture, "name": data.name, "email": data.email, "accessToken": access_token, "refreshToken": refresh_token });
+            const access_token = jwt.sign({ userid: user.id }, ACCESS_SECRET_KEY, { expiresIn: "20s" });
+            const refresh_token = jwt.sign({ userid: user.id }, REFRESH_SECRET_KEY, { expiresIn: "30s" });
+            return res.status(200).json({ "picture": data.picture, "name": data.name, "email": data.email, "accessToken": access_token, "refreshToken": refresh_token, "role": user.role });
         } else {
             const newuser = await Googleuserdata.create({ email: data.email, name: data.name, picture: data.picture, sub: data.sub });
             const user_id = await Googleuserdata.findOne({ where: { email: data.email } });
-            const access_token = jwt.sign({ userid: user_id.id }, ACCESS_SECRET_KEY, { expiresIn: "10s" });
-            const refresh_token = jwt.sign({ userid: user_id.id }, REFRESH_SECRET_KEY, { expiresIn: "20s" });
-            return res.status(201).json({ "picture": data.picture, "name": data.name, "email": data.email, "accessToken": access_token, "refreshToken": refresh_token });
+            const access_token = jwt.sign({ userid: user_id.id }, ACCESS_SECRET_KEY, { expiresIn: "20s" });
+            const refresh_token = jwt.sign({ userid: user_id.id }, REFRESH_SECRET_KEY, { expiresIn: "30s" });
+            return res.status(201).json({ "picture": data.picture, "name": data.name, "email": data.email, "accessToken": access_token, "refreshToken": refresh_token, "role": user_id.role });
         }
     } catch (err) {
         console.error(err);
