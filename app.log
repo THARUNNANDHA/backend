@@ -1,0 +1,573 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-08-10T11:26:17.793Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-08-10T11:27:25.820Z"}
+{"level":"info","message":"::1 - - [10/Aug/2024:11:27:51 +0000] \"POST /login HTTP/1.1\" 201 355 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36\"","timestamp":"2024-08-10T11:27:51.333Z"}
+{"level":"info","message":"::1 - - [10/Aug/2024:11:29:28 +0000] \"POST /login HTTP/1.1\" 201 355 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36\"","timestamp":"2024-08-10T11:29:28.401Z"}
+{"level":"info","message":"::1 - - [10/Aug/2024:11:29:30 +0000] \"GET /product_data HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36\"","timestamp":"2024-08-10T11:29:30.915Z"}
+{"level":"info","message":"::1 - - [10/Aug/2024:11:29:31 +0000] \"GET /product_data HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36\"","timestamp":"2024-08-10T11:29:31.221Z"}
+{"level":"info","message":"::1 - - [10/Aug/2024:11:30:05 +0000] \"GET /product_data HTTP/1.1\" 401 32 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36\"","timestamp":"2024-08-10T11:30:05.942Z"}
+{"level":"info","message":"::1 - - [10/Aug/2024:11:30:05 +0000] \"GET /product_data HTTP/1.1\" 401 32 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36\"","timestamp":"2024-08-10T11:30:05.954Z"}
+{"level":"info","message":"::1 - - [10/Aug/2024:11:30:05 +0000] \"POST /refresh_access_token HTTP/1.1\" 401 33 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36\"","timestamp":"2024-08-10T11:30:05.986Z"}
+{"level":"info","message":"::1 - - [10/Aug/2024:11:30:05 +0000] \"POST /refresh_access_token HTTP/1.1\" 401 33 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36\"","timestamp":"2024-08-10T11:30:05.998Z"}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:47:09'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:18:04 +0000] "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:48:04'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:18:04 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:48:04'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:18:04 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:48:04'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:18:04 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:48:04'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:18:04 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:48:04'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:18:05 +0000] "GET /user_data HTTP/1.1" 200 715 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:48:05'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:18:05 +0000] "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:48:05'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:19:30 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:49:30'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:19:30 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:49:30'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:19:30 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:49:30'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:19:30 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:49:30'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-10-2024 21:59:15'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:00:11'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:30:18 +0000] "POST /googlelogin HTTP/1.1" 200 495 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:00:18'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:30:19 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:00:19'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:30:19 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:00:19'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:30:19 +0000] "GET /user_data HTTP/1.1" 200 715 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:00:19'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:31:06 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:01:06'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:31:06 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:01:06'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:04:11'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:34:19 +0000] "POST /googlelogin HTTP/1.1" 200 495 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:04:19'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:34:19 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:04:19'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:34:20 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:04:20'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:34:20 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:04:20'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:34:48 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:04:48'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:34:48 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:04:48'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:34:50 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:04:50'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2024-08-10T16:34:49.000Z,
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:05:17'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:35:17 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:05:17'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2024-08-10T16:34:49.000Z,
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:05:17'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:35:17 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:05:17'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:36:25 +0000] "POST /googlelogin HTTP/1.1" 200 495 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:06:25'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:36:25 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:06:25'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:36:25 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:06:25'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:36:25 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:06:25'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:36:45 +0000] "GET /product_data HTTP/1.1" 200 498 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:06:45'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2024-08-10T16:36:55.000Z,
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:07:02'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:37:02 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:07:02'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2024-08-10T16:36:55.000Z,
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:07:02'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:37:02 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:07:02'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:11:13'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:41:44 +0000] "POST /googlelogin HTTP/1.1" 200 495 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:11:44'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:41:44 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:11:44'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:41:45 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:11:45'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:41:45 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:11:45'
+}
+{
+  message: 'Refresh token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:12:21'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:42:21 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:12:21'
+}
+{
+  message: 'Refresh token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:12:21'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:42:21 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:12:21'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:40 +0000] "POST /googlelogin HTTP/1.1" 200 495 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:40'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:40 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:40'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:40 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:40'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:40 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:40'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:42 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:42'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:46 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:46'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:46 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:46'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:46 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:46'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:47 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:47'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:48 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:48'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:53 +0000] "POST /googlelogin HTTP/1.1" 200 495 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:53'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:53 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:53'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:53 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:53'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:53 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:53'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:54 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:54'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:56 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:56'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:57 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:57'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:58 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:58'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:59 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:59'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:43:59 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:13:59'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:00 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:00'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:01 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:01'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:02 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:02'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:03 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:03'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:04 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:04'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:04 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:04'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:05 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:05'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:06 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:06'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:07 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:07'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:08 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:08'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:09 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:09'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:10 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:10'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:11 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:11'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:12 +0000] "GET /user_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:12'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:13'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:13 +0000] "GET /product_data HTTP/1.1" 401 32 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:13'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:13 +0000] "POST /refresh_access_token HTTP/1.1" 200 161 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:13'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:44:13 +0000] "GET /product_data HTTP/1.1" 304 - "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:14:13'
+}
+{
+  message: 'Refresh token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:15:11'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:45:11 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:15:11'
+}
+{
+  message: 'Refresh token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:15:11'
+}
+{
+  message: '::1 - - [10/Aug/2024:16:45:11 +0000] "POST /refresh_access_token HTTP/1.1" 401 33 "-" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-10-2024 22:15:11'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:13:25'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:15:14'
+}
+{
+  message: '::1 - - [11/Aug/2024:09:45:20 +0000] "POST /login HTTP/1.1" 201 355 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:15:20'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:28:18'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:29:53'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:30:03'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:31:28'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:31:59'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:32:35'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:33:47'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:33:58'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:34:07'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:34:14'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:37:48'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:37:55'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 200 498 "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:38:06'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:38:07'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:45:00'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-11-2024 15:45:15'
+}

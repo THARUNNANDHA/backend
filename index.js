@@ -11,6 +11,9 @@ const Product = require('./models/Product');
 const cookieParser = require('cookie-parser');
 const { OAuth2Client } = require('google-auth-library');
 const sendmail = require('./mail');
+const morgan = require('morgan');
+const { format, createLogger, transports } = require('winston');
+const { combine, timestamp, label, printf, prettyPrint } = format;
 
 const app = express();
 const client = new OAuth2Client(process.env.GOOGLE_CLIENT);
@@ -25,6 +28,42 @@ app.use(cors(corsOptions));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cookieParser());
+
+// const logger = winston.createLogger({
+//     level: 'debug', // Set the default log level to 'debug' for more detailed logging
+//     format: winston.format.combine(
+//         winston.format.timestamp(),
+//         winston.format.json()
+//     ),
+//     transports: [
+//         new winston.transports.Console(),
+//         new winston.transports.File({ filename: 'app.log' })
+//     ],
+// });
+
+const logger = createLogger({
+    level: 'debug', // Set the default log level to 'debug' for more detailed logging
+    format: combine(
+        timestamp({
+            format: "MMM-DD-YYYY HH:mm:ss",
+        }),
+        prettyPrint()
+    ),
+    transports: [
+        new transports.Console(),
+        new transports.File({ filename: 'app.log' })
+    ],
+});
+
+// Integrate Morgan with Winston
+const customMorganFormat = ':remote-addr - - ":method :url HTTP/:http-version" :status :res[content-length] ":referrer" ';//":user-agent"
+app.use(morgan(customMorganFormat, {
+    stream: {
+        write: (message) => logger.info({
+            message: message.trim()
+        }) // Redirect Morgan logs to Winston
+    }
+}));
 
 const PORT = process.env.PORT;
 const ACCESS_SECRET_KEY = process.env.ACCESS_SECRET_KEY;
@@ -100,7 +139,9 @@ app.post("/refresh_access_token", async (req, res) => {
         const newAccessToken = jwt.sign({ "userid": decoded_data.userid }, ACCESS_SECRET_KEY, { expiresIn: '20s' });
         return res.status(200).json({ 'accessToken': newAccessToken });
     } catch (err) {
-        console.error(err);
+        // console.error(err);
+        logger.info("Refresh token", { message: err })
+        // logger.info(err);
         res.status(401).json({ 'error': "refresh token expired" });
     }
 });
@@ -239,7 +280,8 @@ const checkAccesstoken = async (accessToken) => {
         jwt.verify(accessToken, ACCESS_SECRET_KEY);
         return true;
     } catch (err) {
-        console.error(err);
+        logger.info("Access token", { message: err })
+        // console.error(err);
         return false;
     }
 };
@@ -250,6 +292,7 @@ app.use((err, req, res, next) => {
 
 app.listen(PORT, () => {
     console.log(`Server listening on port ${PORT}`);
+    logger.info('Server is running on port 3000');
 });
 
 module.exports = app;
