@@ -571,3 +571,83 @@
   level: 'info',
   timestamp: 'Aug-11-2024 15:45:15'
 }
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:07:25'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:07:32'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:07:34'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:07:34'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:28'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:31'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:32'
+}
+{
+  message: '::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:48'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:49'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:49'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:49'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:49'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 200 715 "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:49'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:50'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:53'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'info',
+  timestamp: 'Aug-11-2024 17:33:53'
+}

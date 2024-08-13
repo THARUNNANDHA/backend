@@ -140,7 +140,7 @@ app.post("/refresh_access_token", async (req, res) => {
         return res.status(200).json({ 'accessToken': newAccessToken });
     } catch (err) {
         // console.error(err);
-        logger.info("Refresh token", { message: err })
+        logger.info("Refresh Token", { message: err })
         // logger.info(err);
         res.status(401).json({ 'error': "refresh token expired" });
     }
