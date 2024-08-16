@@ -348,3 +348,523 @@
   level: 'http',
   timestamp: 'Aug-15-2024 22:59:10'
 }
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:21:13'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:21:30'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:21:30'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:21:55'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:21:55'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:21:57'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 200 498 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:21:57'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:21:58'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:21:58'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:24'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:24'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:24'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:24'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:27'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:27'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:28'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:28'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:29'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:29'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:29'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:29'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:31'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:31'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:31'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:31'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:33'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:33'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:33'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:33'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:35'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:35'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:35'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:35'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: '::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'User Data Success : Data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 200 715 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'User Data Success : Data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:08'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:08'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:28'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:28'
+}
+{
+  message: 'Delete product success',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: '::1 - - "POST /delete_product_items HTTP/1.1" 200 42 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:32'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 200 324 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:32'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:32'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:32'
+}
+{
+  message: 'Create product success',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: '::1 - - "POST /create_product_item HTTP/1.1" 200 41 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:26:18'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:18'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:26:21'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 200 494 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:21'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:26:21'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:21'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 37 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:55'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 37 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:55'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 37 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:57'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 37 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:57'
+}
