@@ -13,14 +13,15 @@ const { OAuth2Client } = require('google-auth-library');
 const sendmail = require('./mail');
 const morgan = require('morgan');
 const { format, createLogger, transports } = require('winston');
-const { combine, timestamp, label, prettyPrint } = format;
+const { combine, timestamp, printf, label, prettyPrint } = format;
+const moment = require('moment-timezone');
 
 const app = express();
 const client = new OAuth2Client(process.env.GOOGLE_CLIENT);
 
 const corsOptions = {
-    origin: "https://opentuf-jwt-node.vercel.app",
-    // origin: "http://localhost:3000",
+    // origin: "https://opentuf-jwt-node.vercel.app",
+    origin: "http://localhost:3000",
     credentials: true
 };
 
@@ -42,12 +43,13 @@ app.use(cookieParser());
 // });
 
 const logger = createLogger({
-    level: 'debug', // Set the default log level to 'debug' for more detailed logging
+    level: 'debug',
     format: combine(
-        timestamp({
-            format: "MMM-DD-YYYY HH:mm:ss",
-        }),
-        prettyPrint()
+        format.timestamp(),
+        printf(({ level, message, timestamp }) => {
+            const istTime = moment(timestamp).tz('Asia/Kolkata').format('MMM-DD-YYYY HH:mm:ss');
+            return `${istTime} ${level.toUpperCase()}: ${message}`;
+        })
     ),
     transports: [
         new transports.Console(),

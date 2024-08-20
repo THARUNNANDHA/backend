@@ -1,0 +1,2132 @@
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:25:06'
+}
+{
+  message: 'Refresh Token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:25:21'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:25:21'
+}
+{
+  message: 'Refresh Token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:25:21'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:25:21'
+}
+{
+  message: '::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:25:28'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:25:28'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:25:28'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:25:28'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:25:28'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 200 715 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:25:28'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:25:29'
+}
+{
+  message: 'Refresh Token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:27:21'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:27:21'
+}
+{
+  message: 'Refresh Token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:27:21'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:27:21'
+}
+{
+  message: 'Refresh Token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:27:21'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:27:21'
+}
+{
+  message: 'Refresh Token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:27:21'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:27:21'
+}
+{
+  message: '::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:00'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:01'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:01'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:01'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:01'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:01'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:01'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 200 498 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:03'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:04'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:06'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:06'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:08'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:09'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:09'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:09'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:10'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:10'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:11'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:11'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:12'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:12'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:13'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:13'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:13'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:13'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:14'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:15'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:18'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:18'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:19'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:20'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:21'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:29:21'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:21'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:21'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:29:21'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:53:19'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email [object SequelizeInstance:user456]',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:53:48'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:53:48'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email [object SequelizeInstance:user456]',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:55:17'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:55:17'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email [object SequelizeInstance:user456]',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:56:57'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:56:57'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:57:53'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-15-2024 22:58:06'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:58:06'
+}
+{
+  message: 'Login failed : wrong password for email ntharun832@gmail.com',
+  level: 'warn',
+  timestamp: 'Aug-15-2024 22:58:31'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 400 25 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:58:31'
+}
+{
+  message: 'Login failed : user not found ntharun822232@gmail.com',
+  level: 'warn',
+  timestamp: 'Aug-15-2024 22:59:10'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 400 25 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-15-2024 22:59:10'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:21:13'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:21:30'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:21:30'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:21:55'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:21:55'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:21:57'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 200 498 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:21:57'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:21:58'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:21:58'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:16'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:24'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:24'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:24'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:24'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:27'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:27'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:28'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:28'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:29'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:29'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:29'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:29'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:31'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:31'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:31'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:31'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:33'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:33'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:33'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:33'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:35'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:35'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:22:35'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:35'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:22:37'
+}
+{
+  message: '::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'User Data Success : Data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 200 715 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:07'
+}
+{
+  message: 'User Data Success : Data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:08'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:08'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:27'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:28'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:28'
+}
+{
+  message: 'Delete product success',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: '::1 - - "POST /delete_product_items HTTP/1.1" 200 42 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:31'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:32'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 200 324 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:32'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:23:32'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:23:32'
+}
+{
+  message: 'Create product success',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: '::1 - - "POST /create_product_item HTTP/1.1" 200 41 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:25:49'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:26:18'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:18'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:26:21'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 200 494 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:21'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-16-2024 08:26:21'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:21'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 37 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:55'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 37 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:55'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 37 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:57'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 37 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-16-2024 08:26:57'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:18:13'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:18:35'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:18:57'
+}
+{
+  message: '::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:23:04'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:23:04'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:23:04'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:23:04'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:23:04'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:23:04'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:23:04'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:23:04'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:23:04'
+}
+{
+  message: 'User Data Success : Data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:23:05'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 200 715 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:23:05'
+}
+{
+  message: 'User Data Success : Data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:23:05'
+}
+{
+  message: '::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:23:05'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:26:30'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:26:30'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 12:37:28'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:37:28'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 12:37:28'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:37:28'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:37:38'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:37:38'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 12:45:48'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:45:48'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 12:45:48'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:45:48'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:45:59'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:45:59'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 12:46:46'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:46:46'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 12:46:46'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:46:46'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:46:51'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:46:51'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 12:50:41'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:50:41'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 12:50:41'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:50:41'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:52:03'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:52:03'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 12:55:08'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:55:08'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 12:55:08'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:55:08'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 12:55:12'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 12:55:12'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:02:44'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:02:44'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:02:44'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:02:44'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:02:44'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:02:44'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:02:45'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:02:45'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:02:56'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:02:56'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:03:42'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:03:42'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:03:42'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:03:42'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:03:42'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:03:42'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:03:42'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:03:42'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 37 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:03:47'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 37 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:03:47'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:03:50'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:03:50'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:03:51'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 200 494 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:03:51'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:03:51'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:03:51'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:04:28'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:04:28'
+}
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:06:35'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:07:34'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:07:34'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:07:57'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:07:57'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:07:57'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:07:57'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:07:57'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:07:57'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:07:57'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:07:57'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:07:59'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 200 494 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:07:59'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:07:59'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:07:59'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:08:30'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:08:30'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:08:30'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:08:30'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:08:38'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:08:38'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:08:39'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:08:39'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:08:39'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:08:39'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:08:47'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:08:47'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:08:58'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:08:58'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:08:58'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:08:58'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:09:00'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:09:00'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:09:12'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:09:12'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:09:29'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:09:29'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:09:29'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:09:29'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:09:37'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:09:37'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:13:06'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:13:06'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:13:06'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:13:06'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:13:06'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:13:06'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:13:06'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:13:06'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:13:13'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:13:13'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:13:16'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:13:16'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:13:16'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:13:16'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:13:31'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:13:31'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:16:39'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:16:39'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:16:39'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:16:39'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:16:39'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:16:39'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:16:39'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:16:39'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:16:47'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:16:47'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:16:50'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:16:50'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:16:50'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:16:50'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:17:58'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:17:58'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:17:58'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:17:58'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:18:10'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:18:10'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:18:12'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:18:12'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:18:12'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:18:12'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:18:38'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:18:38'
+}
+{
+  message: 'Refresh access token success : token generated for user undefined',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:18:38'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:18:38'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:18:40'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:18:40'
+}
+{
+  message: 'Access token TokenExpiredError: jwt expired',
+  level: 'warn',
+  timestamp: 'Aug-19-2024 13:19:18'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:19:18'
+}
+{
+  message: 'Refresh access token Error: TokenExpiredError: jwt expired',
+  level: 'error',
+  timestamp: 'Aug-19-2024 13:19:18'
+}
+{
+  message: '::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:19:18'
+}
+{
+  message: 'Login successful: create Access and Refresh token for email ntharun832@gmail.com',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:19:26'
+}
+{
+  message: '::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:19:26'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:19:30'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:19:30'
+}
+{
+  message: 'Product data success: data fetched successfully',
+  level: 'info',
+  timestamp: 'Aug-19-2024 13:19:30'
+}
+{
+  message: '::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"',
+  level: 'http',
+  timestamp: 'Aug-19-2024 13:19:30'
+}
+undefined
+undefined
+undefined
+undefined
+undefined
+{
+  message: 'Server is running on port 3000',
+  level: 'info',
+  timestamp: 'Aug-20-2024 04:58:51'
+}
+Aug-20-2024 05:00:33 [INFO]: Server is running on port 3000
+Aug-20-2024 05:01:02 INFO: Server is running on port 3000
+Aug-20-2024 05:01:26 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 05:01:26 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 05:02:04 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:02:04 HTTP: ::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:02:04 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:02:04 HTTP: ::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:02:04 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:02:04 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:02:04 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:02:04 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:02:12 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 05:02:12 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 05:02:15 INFO: Product data success: data fetched successfully
+Aug-20-2024 05:02:15 HTTP: ::1 - - "GET /product_data HTTP/1.1" 200 494 "http://localhost:3000/"
+Aug-20-2024 05:02:15 INFO: Product data success: data fetched successfully
+Aug-20-2024 05:02:15 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:12:46 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 05:12:46 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 05:13:16 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:13:16 HTTP: ::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:13:16 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:13:16 HTTP: ::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:13:16 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:13:16 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:13:16 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:13:16 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:13:24 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 05:13:24 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 05:13:31 INFO: Product data success: data fetched successfully
+Aug-20-2024 05:13:31 HTTP: ::1 - - "GET /product_data HTTP/1.1" 200 494 "http://localhost:3000/"
+Aug-20-2024 05:13:32 INFO: Product data success: data fetched successfully
+Aug-20-2024 05:13:32 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:17:08 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:17:08 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:17:08 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:17:08 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:17:22 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 05:17:22 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 05:20:19 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:20:19 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:20:19 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:20:19 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:20:35 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:20:36 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:20:36 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:20:36 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:20:36 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:20:36 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:20:36 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:20:36 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:20:36 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:20:36 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:20:36 HTTP: ::1 - - "GET /user_data HTTP/1.1" 200 715 "http://localhost:3000/"
+Aug-20-2024 05:20:36 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:20:36 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:20:50 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:20:51 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:20:51 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:20:51 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:20:51 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:20:51 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:20:51 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:20:51 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:20:51 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:20:51 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:20:51 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:20:51 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:20:51 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:22:20 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:22:21 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:22:21 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:22:21 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:22:21 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:22:21 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:22:21 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:22:21 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:22:21 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:22:21 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:22:21 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:22:22 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:22:22 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:28:23 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:28:23 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:28:24 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:28:24 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:28:24 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:28:24 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:28:24 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:28:24 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:31:03 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:31:04 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:31:04 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:31:04 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:31:04 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:31:04 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:31:04 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:31:04 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:31:04 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:31:04 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:31:04 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:31:04 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:31:04 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:34:27 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:34:27 HTTP: ::1 - - "GET /user_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:34:27 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:34:27 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:35:04 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:35:05 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:35:05 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:35:05 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:35:05 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:35:05 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:35:05 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:35:05 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:35:05 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:35:06 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:35:06 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:35:06 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:35:06 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:36:32 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:36:32 HTTP: ::1 - - "GET /user_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:36:32 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:36:32 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:36:40 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 05:36:40 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 05:36:43 INFO: Product data success: data fetched successfully
+Aug-20-2024 05:36:43 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:36:43 INFO: Product data success: data fetched successfully
+Aug-20-2024 05:36:43 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:36:50 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:36:50 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:36:50 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:36:50 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:36:50 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:36:50 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:36:50 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:36:50 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:36:50 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:36:50 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:36:50 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:36:51 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:36:51 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:37:08 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:37:08 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:37:13 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:37:13 HTTP: ::1 - - "GET /user_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:37:13 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:37:13 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:37:13 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:37:13 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:37:34 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:37:34 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:37:48 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:37:48 HTTP: ::1 - - "GET /user_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:37:48 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:37:48 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:37:58 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:37:58 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:37:58 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:37:58 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:37:58 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:37:58 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:37:58 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:37:58 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:37:58 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:37:59 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:37:59 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:37:59 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:37:59 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:38:07 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:38:07 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:38:24 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:38:24 HTTP: ::1 - - "GET /user_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:38:24 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:38:24 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:38:26 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:38:26 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:38:44 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:38:44 HTTP: ::1 - - "GET /user_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:38:44 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:38:44 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:38:51 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:38:52 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:38:52 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:38:52 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:38:52 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:38:52 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:38:52 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:38:52 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:38:52 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:38:52 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:38:52 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:38:52 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:38:52 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:38:59 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:38:59 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:40:22 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:40:22 HTTP: ::1 - - "GET /user_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:40:22 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:40:22 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:40:30 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:40:31 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:40:31 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:40:31 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:40:31 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:40:31 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:40:31 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:40:31 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:40:31 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:40:31 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:40:31 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:40:31 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:40:31 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:42:03 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:42:03 HTTP: ::1 - - "GET /user_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:42:03 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:42:03 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:42:08 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:42:09 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:42:09 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:42:09 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:42:09 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:42:09 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:42:09 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:42:09 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:42:09 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:42:09 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:42:09 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:42:10 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:42:10 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:42:51 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:42:51 HTTP: ::1 - - "GET /user_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:42:51 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:42:51 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:42:56 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:42:57 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:42:57 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:42:57 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:42:57 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:42:57 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:42:57 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:42:57 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:42:57 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:42:57 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:42:57 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:42:58 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:42:58 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:45:00 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:45:00 HTTP: ::1 - - "GET /user_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:45:00 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:45:00 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:45:09 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:45:10 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:45:10 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:45:10 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:45:10 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:45:10 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:45:10 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:45:10 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:45:10 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:45:10 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:45:10 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:45:10 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:45:10 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:45:29 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:45:29 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:45:29 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:45:29 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:45:29 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:45:29 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:45:29 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:45:29 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:45:32 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:45:32 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:45:32 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:45:32 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:47:09 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:47:09 HTTP: ::1 - - "GET /user_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:47:09 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:47:09 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:47:14 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 05:47:15 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:47:15 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:47:15 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:47:15 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:47:15 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:47:15 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:47:15 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 05:47:15 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 05:47:15 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:47:15 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:47:16 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 05:47:16 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:47:51 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:47:51 HTTP: ::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:47:51 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 05:47:51 HTTP: ::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 05:47:51 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:47:51 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:47:51 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:47:51 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:48:00 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 05:48:00 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 05:48:02 INFO: Product data success: data fetched successfully
+Aug-20-2024 05:48:02 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:48:02 INFO: Product data success: data fetched successfully
+Aug-20-2024 05:48:02 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:53:50 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:53:50 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:53:50 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:53:50 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:53:50 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:53:50 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:53:50 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 05:53:50 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 05:54:00 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 05:54:00 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 05:54:14 INFO: Product data success: data fetched successfully
+Aug-20-2024 05:54:14 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 05:54:14 INFO: Product data success: data fetched successfully
+Aug-20-2024 05:54:14 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 09:38:13 INFO: Server is running on port 3000
+Aug-20-2024 09:39:14 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 09:39:14 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 09:39:14 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 09:39:14 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 09:40:12 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 09:40:12 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 09:40:17 INFO: Product data success: data fetched successfully
+Aug-20-2024 09:40:17 HTTP: ::1 - - "GET /product_data HTTP/1.1" 200 494 "http://localhost:3000/"
+Aug-20-2024 09:40:17 INFO: Product data success: data fetched successfully
+Aug-20-2024 09:40:17 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 09:40:32 HTTP: ::1 - - "POST /googlelogin HTTP/1.1" 200 495 "http://localhost:3000/"
+Aug-20-2024 09:40:32 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 09:40:32 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 09:40:32 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 09:40:32 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 09:40:32 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 09:40:32 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 09:40:32 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 09:40:32 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 09:40:33 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 09:40:33 HTTP: ::1 - - "GET /user_data HTTP/1.1" 200 715 "http://localhost:3000/"
+Aug-20-2024 09:40:33 INFO: User Data Success : Data fetched successfully
+Aug-20-2024 09:40:33 HTTP: ::1 - - "GET /user_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 09:41:41 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 09:41:41 HTTP: ::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 09:41:41 WARN: Access token TokenExpiredError: jwt expired
+Aug-20-2024 09:41:41 HTTP: ::1 - - "GET /product_data HTTP/1.1" 401 32 "http://localhost:3000/"
+Aug-20-2024 09:41:41 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 09:41:41 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 09:41:41 ERROR: Refresh access token Error: TokenExpiredError: jwt expired
+Aug-20-2024 09:41:41 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 401 33 "http://localhost:3000/"
+Aug-20-2024 09:42:37 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 09:42:37 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 09:42:40 INFO: Product data success: data fetched successfully
+Aug-20-2024 09:42:40 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 09:42:40 INFO: Product data success: data fetched successfully
+Aug-20-2024 09:42:40 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 09:42:55 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 09:42:55 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 09:42:55 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 09:42:55 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 09:42:55 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 09:42:55 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 09:42:55 INFO: Refresh access token success : token generated for user undefined
+Aug-20-2024 09:42:55 HTTP: ::1 - - "POST /refresh_access_token HTTP/1.1" 200 161 "http://localhost:3000/"
+Aug-20-2024 09:42:57 INFO: Product data success: data fetched successfully
+Aug-20-2024 09:42:57 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 09:42:57 INFO: Product data success: data fetched successfully
+Aug-20-2024 09:42:57 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 12:15:59 INFO: Server is running on port 3000
+Aug-20-2024 12:16:27 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 12:16:27 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 12:16:31 INFO: Product data success: data fetched successfully
+Aug-20-2024 12:16:31 HTTP: ::1 - - "GET /product_data HTTP/1.1" 200 494 "http://localhost:3000/"
+Aug-20-2024 12:16:31 INFO: Product data success: data fetched successfully
+Aug-20-2024 12:16:31 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 12:20:23 INFO: Login successful: create Access and Refresh token for email ntharun832@gmail.com
+Aug-20-2024 12:20:23 HTTP: ::1 - - "POST /login HTTP/1.1" 201 355 "http://localhost:3000/"
+Aug-20-2024 12:20:42 INFO: Product data success: data fetched successfully
+Aug-20-2024 12:20:42 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 12:20:43 INFO: Product data success: data fetched successfully
+Aug-20-2024 12:20:43 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
+Aug-20-2024 12:26:13 INFO: Server is running on port 3000
