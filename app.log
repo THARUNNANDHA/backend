@@ -2130,3 +2130,4 @@ Aug-20-2024 12:20:42 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://lo
 Aug-20-2024 12:20:43 INFO: Product data success: data fetched successfully
 Aug-20-2024 12:20:43 HTTP: ::1 - - "GET /product_data HTTP/1.1" 304 - "http://localhost:3000/"
 Aug-20-2024 12:26:13 INFO: Server is running on port 3000
+Aug-20-2024 12:27:11 INFO: Server is running on port 3000
