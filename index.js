@@ -15,6 +15,8 @@ const morgan = require('morgan');
 const { format, createLogger, transports } = require('winston');
 const { combine, timestamp, printf, label, prettyPrint } = format;
 const moment = require('moment-timezone');
+const { where } = require('sequelize');
+const Cart = require('./models/Cart');
 
 const app = express();
 const client = new OAuth2Client(process.env.GOOGLE_CLIENT);
@@ -219,6 +221,11 @@ app.post("/change_password_otp", async (req, res) => {
     return res.status(404).json({ "error": "User not found" });
 });
 
+
+app.get('/cart_update', async (req, res) => {
+
+})
+
 app.post("/check_otp", async (req, res) => {
     const { otp, email } = req.body;
     const user_exist = await User123.findOne({ where: { email } });
@@ -313,6 +320,55 @@ const checkAccesstoken = async (accessToken) => {
         return false;
     }
 };
+
+app.post('/cart_update', async (req, res) => {
+    const user = req.body.user
+    const mapval = req.body.map
+    // console.log("mapval length:", mapval.length);
+    // console.log("mapval content:", mapval);
+    try {
+        if (!user || !mapval || mapval.length === 2) {
+            logger.info(`Cart_update : Cart Empty`)
+            return res.status(200).json({ 'success': 'cartempty' })
+        }
+
+        const user_exist = await Googleuserdata.findOne({ where: { name: user } })
+        // console.log(user_exist.id)
+        const alreadtInCary = await Cart.findOne({ where: { userid: user_exist.id } });
+        if (alreadtInCary) {
+            await alreadtInCary.update({ map: mapval })
+            logger.info(`Cart_update Success: Data updated for user ${user}`)
+            return res.status(200).json({ 'success': 'updates successfully' })
+        }
+        else await Cart.create({ userid: user_exist.id, map: mapval })
+        logger.info(`Cart_update Success: Data Created for user ${user}`)
+        return res.status(200).json({ 'success': 'created successfully' })
+    }
+    catch (e) {
+        logger.error(`Cart_update error: error updating for ${user}`)
+        console.log(e)
+    }
+})
+
+app.post('/getCart', async (req, res) => {
+    const user = await (req.body.uesr);
+    try {
+        const user_exist = await Googleuserdata.findOne({ where: { name: user } })
+        if (user_exist) {
+            const cart = await Cart.findOne({ where: { userid: user_exist.id } })
+            logger.info(`getCart Success: Data fetched for user ${user}`)
+            return res.status(200).json({ "map": cart })
+        }
+        else {
+            logger.info(`getCart fail: user not found - ${user}`)
+            return res.status(200).json({ "fail": "failed" })
+        }
+    }
+    catch (e) {
+        logger.error(`getCart error: connot fetch data - ${user}`)
+        console.log(e)
+    }
+});
 
 app.use((err, req, res, next) => {
     res.status(500).json({ error: 'Something went wrong!' });
